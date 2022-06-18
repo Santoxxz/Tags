@@ -1,0 +1,7 @@
+name: tags
+main: net.swift.tags.Swift
+author: Seduzenti
+version: 0.1
+commands:
+  tag:
+  tags:

@@ -1,0 +1,7 @@
+name: tags
+main: net.heads.tags.Heads
+author: aabrx
+version: 1.0
+commands:
+  tag:
+  tags:

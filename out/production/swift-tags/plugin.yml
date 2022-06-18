@@ -1,0 +1,7 @@
+name: tags
+main: net.swift.tags.Swift
+author: luc.
+version: 1.0
+commands:
+  tag:
+  tags:
